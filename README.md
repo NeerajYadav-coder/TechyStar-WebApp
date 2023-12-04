@@ -14,6 +14,17 @@ RESPONSIVENESS
 ![Screenshot 2023-12-04 220411](https://github.com/NeerajYadav-coder/TechyStar-WebApp/assets/134063655/2b76d0c4-d482-48da-b8bf-d013f5d8d8d7)
 
 
+![Screenshot 2023-12-04 220622](https://github.com/NeerajYadav-coder/TechyStar-WebApp/assets/134063655/9f1bb5b5-494c-4bf2-86da-8e28636d7ea2)
+
+
+![Screenshot 2023-12-04 220822](https://github.com/NeerajYadav-coder/TechyStar-WebApp/assets/134063655/7227a87c-5d99-48da-bd33-4cdf0d3f3ba9)
+
+
+![Screenshot 2023-12-04 220848](https://github.com/NeerajYadav-coder/TechyStar-WebApp/assets/134063655/c0de28d1-033c-4ffd-93c5-55747caa985d)
+
+
+
+
 
 # Getting Started with Create React App
 
