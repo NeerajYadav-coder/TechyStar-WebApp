@@ -10,6 +10,10 @@ ABOUT
 BRAND
 ![Screenshot 2023-12-04 214808](https://github.com/NeerajYadav-coder/TechyStar-WebApp/assets/134063655/eaa5a096-4582-45f4-bbef-56decd320c0c)
 
+RESPONSIVENESS
+![Screenshot 2023-12-04 220411](https://github.com/NeerajYadav-coder/TechyStar-WebApp/assets/134063655/2b76d0c4-d482-48da-b8bf-d013f5d8d8d7)
+
+
 
 # Getting Started with Create React App
 
